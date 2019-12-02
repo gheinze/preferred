@@ -43,7 +43,8 @@ public class PreferredProcessor {
         final String action = ACTION_TO_GOOGLE_SHEET;
 
         PreferredProcessor processor = new PreferredProcessor();
-        processor.process(action);
+        processor.process(ACTION_UPDATE_QUOTES);
+        processor.process(ACTION_TO_GOOGLE_SHEET);
 
     }
 
@@ -102,9 +103,9 @@ public class PreferredProcessor {
             
             String symbol = preferred.getSymbol();
             
-            if (lookupList.contains(symbol)) {
-                continue;
-            }
+//            if (lookupList.contains(symbol)) {
+//                continue;
+//            }
             
             try {
                 QuoteMediaQuoteDao quote = quoteService.getQuote(symbol);

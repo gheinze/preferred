@@ -1,0 +1,1054 @@
+[ {
+  "symbol" : "ALA.PR.E",
+  "company" : "AltaGas Limited",
+  "currentRate" : null,
+  "lastPrice" : 19.05,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ALA.PR.E"
+}, {
+  "symbol" : "ALA.PR.G",
+  "company" : "AltaGas Limited",
+  "currentRate" : null,
+  "lastPrice" : 17.55,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ALA.PR.G"
+}, {
+  "symbol" : "ALA.PR.U",
+  "company" : "AltaGas Limited (U.S.$)",
+  "currentRate" : null,
+  "lastPrice" : 20.22,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ALA.PR.U"
+}, {
+  "symbol" : "BAM.PF.E",
+  "company" : "Brookfield Asset Management Inc.",
+  "currentRate" : null,
+  "lastPrice" : 18.87,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BAM.PF.E"
+}, {
+  "symbol" : "BAM.PF.F",
+  "company" : "Brookfield Asset Management Inc.",
+  "currentRate" : null,
+  "lastPrice" : 20.15,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BAM.PF.F"
+}, {
+  "symbol" : "BAM.PF.G",
+  "company" : "Brookfield Asset Management Inc.",
+  "currentRate" : null,
+  "lastPrice" : 20.00,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BAM.PF.G"
+}, {
+  "symbol" : "BCE.PR.R",
+  "company" : "BCE Inc.",
+  "currentRate" : null,
+  "lastPrice" : 16.26,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-12-01",
+  "resetPremium" : 0,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BCE.PR.R"
+}, {
+  "symbol" : "BCE.PR.A",
+  "company" : "BCE Inc.",
+  "currentRate" : null,
+  "lastPrice" : 15.94,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2022-09-01",
+  "resetPremium" : 0,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BCE.PR.A"
+}, {
+  "symbol" : "BCE.PR.C",
+  "company" : "BCE Inc.",
+  "currentRate" : null,
+  "lastPrice" : 17.11,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2023-03-01",
+  "resetPremium" : 0,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BCE.PR.C"
+}, {
+  "symbol" : "BCE.PR.K",
+  "company" : "BCE Inc.",
+  "currentRate" : null,
+  "lastPrice" : 14.80,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-12-31",
+  "resetPremium" : 1.88,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BCE.PR.K"
+}, {
+  "symbol" : "BCE.PR.Q",
+  "company" : "BCE Inc. **Dividend Reset**",
+  "currentRate" : null,
+  "lastPrice" : 19.95,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BCE.PR.Q"
+}, {
+  "symbol" : "BMO.PR.M",
+  "company" : "Bank of Montreal **Redemption Notice**",
+  "currentRate" : null,
+  "lastPrice" : null,
+  "lastPriceDate" : null,
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BMO.PR.M"
+}, {
+  "symbol" : "BMO.PR.Q",
+  "company" : "Bank of Montreal",
+  "currentRate" : 3.39,
+  "lastPrice" : 23.75,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-08-05",
+  "resetPremium" : 1.15,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BMO.PR.Q"
+}, {
+  "symbol" : "BMO.PR.S",
+  "company" : "Bank of Montreal",
+  "currentRate" : 1.81,
+  "lastPrice" : 19.66,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2019-05-25",
+  "resetPremium" : 2.33,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BMO.PR.S"
+}, {
+  "symbol" : "BMO.PR.T",
+  "company" : "Bank of Montreal",
+  "currentRate" : 3.9,
+  "lastPrice" : 19.22,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2019-08-25",
+  "resetPremium" : 2.24,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BMO.PR.T"
+}, {
+  "symbol" : "BMO.PR.Y",
+  "company" : "Bank of Montreal",
+  "currentRate" : 3.8,
+  "lastPrice" : 21.21,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-08-25",
+  "resetPremium" : 2.71,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BMO.PR.Y"
+}, {
+  "symbol" : "BMO.PR.B",
+  "company" : "Bank of Montreal",
+  "currentRate" : 4.85,
+  "lastPrice" : 25.70,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2022-02-25",
+  "resetPremium" : 4.06,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BMO.PR.B"
+}, {
+  "symbol" : "BMO.PR.C",
+  "company" : "Bank of Montreal",
+  "currentRate" : 4.5,
+  "lastPrice" : 24.17,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2022-05-25",
+  "resetPremium" : 3.33,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BMO.PR.C"
+}, {
+  "symbol" : "BMO.PR.D",
+  "company" : "Bank of Montreal",
+  "currentRate" : 4.4,
+  "lastPrice" : 23.19,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2022-08-25",
+  "resetPremium" : 3.17,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BMO.PR.D"
+}, {
+  "symbol" : "BMO.PR.E",
+  "company" : "Bank of Montreal",
+  "currentRate" : 4.85,
+  "lastPrice" : 23.30,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2023-11-25",
+  "resetPremium" : 2.68,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BMO.PR.E"
+}, {
+  "symbol" : "BNS.PR.E",
+  "company" : "Bank of Nova Scotia",
+  "currentRate" : 5.5,
+  "lastPrice" : 26.00,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-04-26",
+  "resetPremium" : 4.51,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BNS.PR.E"
+}, {
+  "symbol" : "BNS.PR.G",
+  "company" : "Bank of Nova Scotia",
+  "currentRate" : 5.5,
+  "lastPrice" : 26.06,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-07-25",
+  "resetPremium" : 4.72,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BNS.PR.G"
+}, {
+  "symbol" : "BNS.PR.Y",
+  "company" : "Bank of Nova Scotia",
+  "currentRate" : 1.82,
+  "lastPrice" : 24.64,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-04-26",
+  "resetPremium" : 1,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BNS.PR.Y"
+}, {
+  "symbol" : "BNS.PR.H",
+  "company" : "Bank of Nova Scotia",
+  "currentRate" : 4.85,
+  "lastPrice" : 25.72,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2022-01-27",
+  "resetPremium" : 4.19,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BNS.PR.H"
+}, {
+  "symbol" : "BNS.PR.I",
+  "company" : "Bank of Nova Scotia ",
+  "currentRate" : 4.85,
+  "lastPrice" : 23.44,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2024-01-27",
+  "resetPremium" : 2.43,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BNS.PR.I"
+}, {
+  "symbol" : "BPO.PR.T",
+  "company" : "Brookfield Office Properties Inc.",
+  "currentRate" : null,
+  "lastPrice" : 19.55,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=BPO.PR.T"
+}, {
+  "symbol" : "CF.PR.A",
+  "company" : "Canaccord Genuity Group Inc.",
+  "currentRate" : null,
+  "lastPrice" : 14.99,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=CF.PR.A"
+}, {
+  "symbol" : "CM.PR.O",
+  "company" : "Canadian Imperial Bank of Commerce",
+  "currentRate" : 3.9,
+  "lastPrice" : 19.39,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2019-07-01",
+  "resetPremium" : 2.32,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=CM.PR.O"
+}, {
+  "symbol" : "CM.PR.P",
+  "company" : "Canadian Imperial Bank of Commerce",
+  "currentRate" : 3.75,
+  "lastPrice" : 18.93,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-01-31",
+  "resetPremium" : 2.24,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=CM.PR.P"
+}, {
+  "symbol" : "CM.PR.Q",
+  "company" : "Canadian Imperial Bank of Commerce",
+  "currentRate" : 3.6,
+  "lastPrice" : 21.38,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-07-31",
+  "resetPremium" : 2.79,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=CM.PR.Q"
+}, {
+  "symbol" : "CM.PR.R",
+  "company" : "Canadian Imperial Bank of Commerce",
+  "currentRate" : 4.4,
+  "lastPrice" : 23.36,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2022-07-31",
+  "resetPremium" : 3.38,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=CM.PR.R"
+}, {
+  "symbol" : "CM.PR.S",
+  "company" : "Canadian Imperial Bank of Commerce",
+  "currentRate" : 4.5,
+  "lastPrice" : 20.50,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2023-01-31",
+  "resetPremium" : 2.45,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=CM.PR.S"
+}, {
+  "symbol" : "CM.PR.T",
+  "company" : "Canadian Imperial Bank of Commerce **New Issue**",
+  "currentRate" : 5.2,
+  "lastPrice" : 25.25,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2024-04-30",
+  "resetPremium" : 3.31,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=CM.PR.T"
+}, {
+  "symbol" : "CU.PR.C",
+  "company" : "Canadian Utilities Ltd.",
+  "currentRate" : 3.4,
+  "lastPrice" : 18.95,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2022-06-01",
+  "resetPremium" : 2.4,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=CU.PR.C"
+}, {
+  "symbol" : "CWB.PR.B",
+  "company" : "Canadian Western Bank Group",
+  "currentRate" : 4.4,
+  "lastPrice" : 19.50,
+  "lastPriceDate" : "2019-02-16",
+  "resetDate" : "2019-04-30",
+  "resetPremium" : 2.76,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=CWB.PR.B"
+}, {
+  "symbol" : "CWB.PR.C",
+  "company" : "Canadian Western Bank Group",
+  "currentRate" : 6.25,
+  "lastPrice" : 25.70,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-07-31",
+  "resetPremium" : 5.47,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=CWB.PR.C"
+}, {
+  "symbol" : "CWB.PR.D",
+  "company" : "Canadian Western Bank Group **New Issue**",
+  "currentRate" : 6,
+  "lastPrice" : 25.30,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2024-04-30",
+  "resetPremium" : 4.04,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=CWB.PR.D"
+}, {
+  "symbol" : "EMA.PR.A",
+  "company" : "Emera Incorporated",
+  "currentRate" : 2.56,
+  "lastPrice" : 15.45,
+  "lastPriceDate" : "2019-02-16",
+  "resetDate" : "2020-08-15",
+  "resetPremium" : 1.84,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=EMA.PR.A"
+}, {
+  "symbol" : "EMA.PR.C",
+  "company" : "Emera Incorporated",
+  "currentRate" : 4.72,
+  "lastPrice" : 20.35,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2023-08-14",
+  "resetPremium" : 2.65,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=EMA.PR.C"
+}, {
+  "symbol" : "EMA.PR.F",
+  "company" : "Emera Incorporated",
+  "currentRate" : 4.25,
+  "lastPrice" : 19.75,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-02-15",
+  "resetPremium" : 2.63,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=EMA.PR.F"
+}, {
+  "symbol" : "EML.PR.A",
+  "company" : "Empire Life Insurance Company",
+  "currentRate" : null,
+  "lastPrice" : 26.09,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=EML.PR.A"
+}, {
+  "symbol" : "ENB.PF.A",
+  "company" : "Enbridge Inc.",
+  "currentRate" : 4.4,
+  "lastPrice" : 17.40,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2019-12-01",
+  "resetPremium" : 2.66,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ENB.PF.A"
+}, {
+  "symbol" : "ENB.PR.B",
+  "company" : "Enbridge Inc.",
+  "currentRate" : 3.42,
+  "lastPrice" : 15.43,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2022-06-01",
+  "resetPremium" : 2.4,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ENB.PR.B"
+}, {
+  "symbol" : "ENB.PR.D",
+  "company" : "Enbridge Inc.",
+  "currentRate" : 4.46,
+  "lastPrice" : 16.66,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2023-03-01",
+  "resetPremium" : 2.37,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ENB.PR.D"
+}, {
+  "symbol" : "ENB.PR.F",
+  "company" : "Enbridge Inc.",
+  "currentRate" : 4.69,
+  "lastPrice" : 17.50,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2018-06-01",
+  "resetPremium" : 2.51,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ENB.PR.F"
+}, {
+  "symbol" : "ENB.PR.J",
+  "company" : "Enbridge Inc.",
+  "currentRate" : 4.4,
+  "lastPrice" : 17.50,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2019-03-01",
+  "resetPremium" : 2.57,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ENB.PR.J"
+}, {
+  "symbol" : "ENB.PR.N",
+  "company" : "Enbridge Inc.",
+  "currentRate" : 4,
+  "lastPrice" : 18.55,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2018-12-01",
+  "resetPremium" : 2.65,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ENB.PR.N"
+}, {
+  "symbol" : "ENB.PR.P",
+  "company" : "Enbridge Inc.",
+  "currentRate" : 4,
+  "lastPrice" : 17.12,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2019-03-01",
+  "resetPremium" : 2.5,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ENB.PR.P"
+}, {
+  "symbol" : "ENB.PR.T",
+  "company" : "Enbridge Inc.",
+  "currentRate" : 4,
+  "lastPrice" : 16.65,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2019-06-01",
+  "resetPremium" : 2.5,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ENB.PR.T"
+}, {
+  "symbol" : "ENB.PR.Y",
+  "company" : "Enbridge Inc.",
+  "currentRate" : 4,
+  "lastPrice" : 16.20,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2019-09-01",
+  "resetPremium" : 2.38,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ENB.PR.Y"
+}, {
+  "symbol" : "ENB.PF.U",
+  "company" : "Enbridge Inc. (U.S.$)",
+  "currentRate" : null,
+  "lastPrice" : 20.30,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ENB.PF.U"
+}, {
+  "symbol" : "ENB.PF.V",
+  "company" : "Enbridge Inc. (U.S.$)",
+  "currentRate" : null,
+  "lastPrice" : 19.85,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ENB.PF.V"
+}, {
+  "symbol" : "ENB.PF.C",
+  "company" : "Enbridge Inc.",
+  "currentRate" : 4.4,
+  "lastPrice" : 17.33,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-03-01",
+  "resetPremium" : 2.64,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ENB.PF.C"
+}, {
+  "symbol" : "ENB.PF.E",
+  "company" : "Enbridge Inc.",
+  "currentRate" : 4.4,
+  "lastPrice" : 17.50,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-06-01",
+  "resetPremium" : 2.66,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ENB.PF.E"
+}, {
+  "symbol" : "ENB.PF.G",
+  "company" : "Enbridge Inc.",
+  "currentRate" : 4.4,
+  "lastPrice" : 17.56,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-09-01",
+  "resetPremium" : 2.68,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=ENB.PF.G"
+}, {
+  "symbol" : "FFH.PR.E",
+  "company" : "Fairfax Financial Holdings Limited",
+  "currentRate" : null,
+  "lastPrice" : 15.25,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=FFH.PR.E"
+}, {
+  "symbol" : "FFH.PR.K",
+  "company" : "Fairfax Financial Holdings Limited",
+  "currentRate" : null,
+  "lastPrice" : 20.24,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=FFH.PR.K"
+}, {
+  "symbol" : "FFH.PR.M",
+  "company" : "Fairfax Financial Holdings Limited",
+  "currentRate" : null,
+  "lastPrice" : 22.66,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=FFH.PR.M"
+}, {
+  "symbol" : "FTS.PR.K",
+  "company" : "Fortis Inc.",
+  "currentRate" : 4,
+  "lastPrice" : 17.67,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2019-03-01",
+  "resetPremium" : 2.05,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=FTS.PR.K"
+}, {
+  "symbol" : "FTS.PR.M",
+  "company" : "Fortis Inc.",
+  "currentRate" : 4.1,
+  "lastPrice" : 19.29,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2019-12-01",
+  "resetPremium" : 2.48,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=FTS.PR.M"
+}, {
+  "symbol" : "GWO.PR.N",
+  "company" : "Great-West Lifeco Inc.",
+  "currentRate" : 2.18,
+  "lastPrice" : 14.98,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-12-31",
+  "resetPremium" : 1.3,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=GWO.PR.N"
+}, {
+  "symbol" : "HSE.PR.C",
+  "company" : "Husky Energy Inc.",
+  "currentRate" : null,
+  "lastPrice" : 19.40,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=HSE.PR.C"
+}, {
+  "symbol" : "HSE.PR.E",
+  "company" : "Husky Energy Inc.",
+  "currentRate" : null,
+  "lastPrice" : 19.95,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=HSE.PR.E"
+}, {
+  "symbol" : "IAG.PR.G",
+  "company" : "Industrial Alliance Insurance and Financial Services Inc,.",
+  "currentRate" : null,
+  "lastPrice" : 21.5100,
+  "lastPriceDate" : "2019-01-09",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=IAG.PR.G"
+}, {
+  "symbol" : "IAG.PR.I",
+  "company" : "Industrial Alliance Insurance and Financial Services Inc.",
+  "currentRate" : null,
+  "lastPrice" : null,
+  "lastPriceDate" : null,
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=IAG.PR.I"
+}, {
+  "symbol" : "IFC.PR.A",
+  "company" : "Intact Financial Corp.",
+  "currentRate" : null,
+  "lastPrice" : 16.70,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=IFC.PR.A"
+}, {
+  "symbol" : "IFC.PR.C",
+  "company" : "Intact Financial Corp.",
+  "currentRate" : null,
+  "lastPrice" : 19.57,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=IFC.PR.C"
+}, {
+  "symbol" : "IFC.PR.G",
+  "company" : "Intact Financial Corp.",
+  "currentRate" : null,
+  "lastPrice" : 21.40,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=IFC.PR.G"
+}, {
+  "symbol" : "LB.PR.J",
+  "company" : "Laurentian Bank of Canada",
+  "currentRate" : 5.85,
+  "lastPrice" : 25.49,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-06-15",
+  "resetPremium" : 5.13,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=LB.PR.J"
+}, {
+  "symbol" : "MFC.PR.F",
+  "company" : "Manulife Financial Corporation",
+  "currentRate" : 4.2,
+  "lastPrice" : 14.93,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-06-19",
+  "resetPremium" : 1.41,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=MFC.PR.F"
+}, {
+  "symbol" : "MFC.PR.J",
+  "company" : "Manulife Financial Corporation",
+  "currentRate" : 4.73,
+  "lastPrice" : 21.30,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2023-03-19",
+  "resetPremium" : 2.61,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=MFC.PR.J"
+}, {
+  "symbol" : "MFC.PR.K",
+  "company" : "Manulife Financial Corporation",
+  "currentRate" : 4.41,
+  "lastPrice" : 19.81,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2023-09-19",
+  "resetPremium" : 2.22,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=MFC.PR.K"
+}, {
+  "symbol" : "MFC.PR.M",
+  "company" : "Manulife Financial Corporation",
+  "currentRate" : 3.9,
+  "lastPrice" : 19.70,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2019-12-19",
+  "resetPremium" : 2.36,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=MFC.PR.M"
+}, {
+  "symbol" : "MFC.PR.N",
+  "company" : "Manulife Financial Corporation",
+  "currentRate" : 3.8,
+  "lastPrice" : 19.20,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-03-19",
+  "resetPremium" : 2.3,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=MFC.PR.N"
+}, {
+  "symbol" : "MFC.PR.O",
+  "company" : "Manulife Financial Corporation",
+  "currentRate" : 5.6,
+  "lastPrice" : 26.00,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-06-19",
+  "resetPremium" : 4.97,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=MFC.PR.O"
+}, {
+  "symbol" : "MFC.PR.Q",
+  "company" : "Manulife Financial Corporation",
+  "currentRate" : 4.7,
+  "lastPrice" : 21.30,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2023-06-19",
+  "resetPremium" : 2.55,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=MFC.PR.Q"
+}, {
+  "symbol" : "MFC.PR.R",
+  "company" : "Manulife Financial Corporation",
+  "currentRate" : 4.85,
+  "lastPrice" : 24.88,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2022-03-19",
+  "resetPremium" : 3.83,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=MFC.PR.R"
+}, {
+  "symbol" : "NA.PR.A",
+  "company" : "National Bank of Canada",
+  "currentRate" : 5.4,
+  "lastPrice" : 25.70,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-08-15",
+  "resetPremium" : 4.66,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=NA.PR.A"
+}, {
+  "symbol" : "NA.PR.C",
+  "company" : "National Bank of Canada",
+  "currentRate" : 4.45,
+  "lastPrice" : 23.00,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2022-11-15",
+  "resetPremium" : 3.43,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=NA.PR.C"
+}, {
+  "symbol" : "NA.PR.E",
+  "company" : "National Bank of Canada",
+  "currentRate" : 4.6,
+  "lastPrice" : 20.53,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2023-05-15",
+  "resetPremium" : 2.58,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=NA.PR.E"
+}, {
+  "symbol" : "NA.PR.G",
+  "company" : "National Bank of Canada",
+  "currentRate" : 4.95,
+  "lastPrice" : 21.89,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2023-11-15",
+  "resetPremium" : 2.77,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=NA.PR.G"
+}, {
+  "symbol" : "NA.PR.S",
+  "company" : "National Bank of Canada",
+  "currentRate" : 4.1,
+  "lastPrice" : 19.09,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2019-05-15",
+  "resetPremium" : 2.4,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=NA.PR.S"
+}, {
+  "symbol" : "NA.PR.W",
+  "company" : "National Bank of Canada",
+  "currentRate" : 3.9,
+  "lastPrice" : 18.40,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-02-15",
+  "resetPremium" : 2.25,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=NA.PR.W"
+}, {
+  "symbol" : "NA.PR.X",
+  "company" : "National Bank of Canada",
+  "currentRate" : 5.6,
+  "lastPrice" : 25.91,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-05-15",
+  "resetPremium" : 4.9,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=NA.PR.X"
+}, {
+  "symbol" : "PPL.PR.A",
+  "company" : "Pembina Pipeline Corporation",
+  "currentRate" : null,
+  "lastPrice" : 18.19,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=PPL.PR.A"
+}, {
+  "symbol" : "PPL.PR.C",
+  "company" : "Pembina Pipeline Corporation",
+  "currentRate" : null,
+  "lastPrice" : 17.65,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=PPL.PR.C"
+}, {
+  "symbol" : "PPL.PR.G",
+  "company" : "Pembina Pipeline Corporation",
+  "currentRate" : null,
+  "lastPrice" : 18.80,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=PPL.PR.G"
+}, {
+  "symbol" : "PPL.PR.I",
+  "company" : "Pembina Pipeline Corporation",
+  "currentRate" : null,
+  "lastPrice" : 22.00,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=PPL.PR.I"
+}, {
+  "symbol" : "PPL.PR.O",
+  "company" : "Pembina Pipeline Corporation",
+  "currentRate" : null,
+  "lastPrice" : 18.03,
+  "lastPriceDate" : "2019-02-22",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=PPL.PR.O"
+}, {
+  "symbol" : "PPL.PR.Q",
+  "company" : "Pembina Pipeline Corporation",
+  "currentRate" : null,
+  "lastPrice" : 19.80,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=PPL.PR.Q"
+}, {
+  "symbol" : "PPL.PR.S",
+  "company" : "Pembina Pipeline Corporation",
+  "currentRate" : null,
+  "lastPrice" : 24.40,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=PPL.PR.S"
+}, {
+  "symbol" : "PWF.PR.T",
+  "company" : "Power Financial Corporation",
+  "currentRate" : null,
+  "lastPrice" : 19.45,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=PWF.PR.T"
+}, {
+  "symbol" : "RY.PR.I",
+  "company" : "Royal Bank of Canada **Redemption Notice**",
+  "currentRate" : null,
+  "lastPrice" : 24.98,
+  "lastPriceDate" : "2019-02-16",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=RY.PR.I"
+}, {
+  "symbol" : "RY.PR.J",
+  "company" : "Royal Bank of Canada",
+  "currentRate" : 3.6,
+  "lastPrice" : 21.80,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-05-24",
+  "resetPremium" : 2.74,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=RY.PR.J"
+}, {
+  "symbol" : "RY.PR.M",
+  "company" : "Royal Bank of Canada",
+  "currentRate" : 3.6,
+  "lastPrice" : 21.32,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-11-24",
+  "resetPremium" : 2.62,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=RY.PR.M"
+}, {
+  "symbol" : "RY.PR.Q",
+  "company" : "Royal Bank of Canada",
+  "currentRate" : 5.5,
+  "lastPrice" : 26.05,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-05-24",
+  "resetPremium" : 4.53,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=RY.PR.Q"
+}, {
+  "symbol" : "RY.PR.R",
+  "company" : "Royal Bank of Canada",
+  "currentRate" : 5.5,
+  "lastPrice" : 26.19,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-08-24",
+  "resetPremium" : 4.8,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=RY.PR.R"
+}, {
+  "symbol" : "RY.PR.S",
+  "company" : "Royal Bank of Canada",
+  "currentRate" : 4.8,
+  "lastPrice" : 22.89,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2024-02-24",
+  "resetPremium" : 2.38,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=RY.PR.S"
+}, {
+  "symbol" : "SJR.PR.A",
+  "company" : "Shaw Communications Inc.",
+  "currentRate" : 2.79,
+  "lastPrice" : 15.42,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-06-30",
+  "resetPremium" : 2,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=SJR.PR.A"
+}, {
+  "symbol" : "SLF.PR.G",
+  "company" : "Sun Life Financial Inc.",
+  "currentRate" : 2.28,
+  "lastPrice" : 14.70,
+  "lastPriceDate" : "2019-02-22",
+  "resetDate" : "2020-06-30",
+  "resetPremium" : 1.41,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=SLF.PR.G"
+}, {
+  "symbol" : "TD.PF.A",
+  "company" : "Toronto-Dominion Bank",
+  "currentRate" : 3.9,
+  "lastPrice" : 19.45,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2019-10-31",
+  "resetPremium" : 2.24,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TD.PF.A"
+}, {
+  "symbol" : "TD.PF.C",
+  "company" : "Toronto-Dominion Bank",
+  "currentRate" : 3.75,
+  "lastPrice" : 19.58,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-01-31",
+  "resetPremium" : 2.25,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TD.PF.C"
+}, {
+  "symbol" : "TD.PF.D",
+  "company" : "Toronto-Dominion Bank",
+  "currentRate" : 3.6,
+  "lastPrice" : 21.94,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2020-07-31",
+  "resetPremium" : 2.79,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TD.PF.D"
+}, {
+  "symbol" : "TD.PF.G",
+  "company" : "Toronto-Dominion Bank",
+  "currentRate" : 5.5,
+  "lastPrice" : 26.09,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-04-30",
+  "resetPremium" : 4.66,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TD.PF.G"
+}, {
+  "symbol" : "TD.PF.H",
+  "company" : "Toronto-Dominion Bank",
+  "currentRate" : 4.85,
+  "lastPrice" : 25.61,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2021-10-31",
+  "resetPremium" : 4.12,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TD.PF.H"
+}, {
+  "symbol" : "TD.PF.I",
+  "company" : "Toronto-Dominion Bank ",
+  "currentRate" : 4.5,
+  "lastPrice" : 24.02,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2022-10-31",
+  "resetPremium" : 3.01,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TD.PF.I"
+}, {
+  "symbol" : "TD.PF.J",
+  "company" : "Toronto-Dominion Bank ",
+  "currentRate" : 4.7,
+  "lastPrice" : 23.00,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2023-04-30",
+  "resetPremium" : 2.7,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TD.PF.J"
+}, {
+  "symbol" : "TD.PF.K",
+  "company" : "Toronto-Dominion Bank ",
+  "currentRate" : 4.75,
+  "lastPrice" : 22.68,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2023-10-31",
+  "resetPremium" : 2.59,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TD.PF.K"
+}, {
+  "symbol" : "TD.PF.L",
+  "company" : "Toronto-Dominion Bank **New Issue**",
+  "currentRate" : null,
+  "lastPrice" : 25.25,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : "2024-04-30",
+  "resetPremium" : 3.27,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TD.PF.L"
+}, {
+  "symbol" : "TA.PR.F",
+  "company" : "TransAlta Corporation",
+  "currentRate" : null,
+  "lastPrice" : 14.49,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TA.PR.F"
+}, {
+  "symbol" : "TA.PR.D",
+  "company" : "TransAlta Corporation",
+  "currentRate" : null,
+  "lastPrice" : 11.90,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TA.PR.D"
+}, {
+  "symbol" : "TRP.PR.A",
+  "company" : "TransCanada Corporation",
+  "currentRate" : null,
+  "lastPrice" : 15.69,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TRP.PR.A"
+}, {
+  "symbol" : "TRP.PR.B",
+  "company" : "TransCanada Corporation",
+  "currentRate" : null,
+  "lastPrice" : 13.05,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TRP.PR.B"
+}, {
+  "symbol" : "TRP.PR.D",
+  "company" : "TransCanada Corporation",
+  "currentRate" : null,
+  "lastPrice" : 18.22,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TRP.PR.D"
+}, {
+  "symbol" : "TRP.PR.E",
+  "company" : "TransCanada Corporation",
+  "currentRate" : null,
+  "lastPrice" : 18.10,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TRP.PR.E"
+}, {
+  "symbol" : "TRP.PR.G",
+  "company" : "TransCanada Corporation",
+  "currentRate" : null,
+  "lastPrice" : 20.25,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=TRP.PR.G"
+}, {
+  "symbol" : "VNR.PR.A",
+  "company" : "Valener Inc.",
+  "currentRate" : null,
+  "lastPrice" : 22.70,
+  "lastPriceDate" : "2019-03-02",
+  "resetDate" : null,
+  "resetPremium" : null,
+  "notes" : "https://www.investingforme.com/data-room/quote?s=VNR.PR.A"
+} ]
